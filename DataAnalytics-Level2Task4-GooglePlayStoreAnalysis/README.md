@@ -1,4 +1,4 @@
-Google Play Store Analysis
+## Google Play Store Analysis
 
 A full data analysis pipeline on the Google Play Store apps and user reviews datasets — from raw, messy CSV/XLSX files to cleaned data, exploratory visualizations, and sentiment analysis.
 
