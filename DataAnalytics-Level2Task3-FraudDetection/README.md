@@ -47,4 +47,4 @@ Accuracy was avoided as the primary metric because fraud datasets are heavily im
 
 ## Dataset Source
 
-The Credit Card Fraud Detection dataset was obtained from Kaggle. Due to GitHub file size limits, the raw dataset is not included in this repository.
+The Credit Card Fraud Detection dataset was obtained from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
